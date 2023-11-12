@@ -1,0 +1,22 @@
+.navbar-content{
+    padding: 20px;
+}
+
+.item-wrap{
+    gap: 30px;
+}
+
+.text-menu{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: 60px;
+}
+
+.wrap-detail{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    gap:10px;
+    width:100%;
+}
